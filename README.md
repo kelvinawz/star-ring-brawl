@@ -4,8 +4,8 @@
 
 ## 游玩
 
-- 浏览器：直接打开 [index.html](index.html)。
-- macOS Apple Silicon：打开 `dist/星环乱斗-macOS-arm64-0.2.0.dmg`，把“星环乱斗.app”拖入“应用程序”。
+- 浏览器：[在线试玩](https://kelvinawz.github.io/star-ring-brawl/)；也可以直接打开 [index.html](index.html) 离线运行。
+- macOS Apple Silicon：从 [v0.2.0 发行页](https://github.com/kelvinawz/star-ring-brawl/releases/tag/v0.2.0)下载 DMG，打开后把“星环乱斗.app”拖入“应用程序”。本地构建产物保存在 `dist/`。
 
 当前 `.dmg` 采用临时签名，未进行 Developer ID 签名或 Apple 公证；从 GitHub 下载时 macOS 可能要求在“系统设置 → 隐私与安全性”中确认打开。正式公开分发应使用开发者证书签名并公证。
 
